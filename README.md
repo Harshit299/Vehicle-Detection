@@ -10,4 +10,5 @@ Can be extended for traffic analysis or smart surveillance.
 🛠 Technologies Used
 Python
 OpenCV (for image processing)
-Deep Learning (YOLO/SSD/MobileNet, if applicable)
+Counter detection
+Employs KCF(Kernalised Correlation Filters) to maintain consistent tracking of vehicles
